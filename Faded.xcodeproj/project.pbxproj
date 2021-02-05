@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		355D9FA825CB249E00DFB713 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 355D9FA725CB249E00DFB713 /* InfoView.swift */; };
 		3565461825CB0630000EE7BE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3565461725CB0630000EE7BE /* AppDelegate.swift */; };
 		3565461A25CB0630000EE7BE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3565461925CB0630000EE7BE /* SceneDelegate.swift */; };
 		3565461C25CB0630000EE7BE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3565461B25CB0630000EE7BE /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		355D9FA725CB249E00DFB713 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		3565461425CB0630000EE7BE /* Faded.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Faded.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3565461725CB0630000EE7BE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3565461925CB0630000EE7BE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3565461725CB0630000EE7BE /* AppDelegate.swift */,
 				3565461925CB0630000EE7BE /* SceneDelegate.swift */,
 				3565461B25CB0630000EE7BE /* ContentView.swift */,
+				355D9FA725CB249E00DFB713 /* InfoView.swift */,
 				3565461D25CB0633000EE7BE /* Assets.xcassets */,
 				3565462225CB0633000EE7BE /* LaunchScreen.storyboard */,
 				3565462525CB0633000EE7BE /* Info.plist */,
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				355D9FA825CB249E00DFB713 /* InfoView.swift in Sources */,
 				3565461825CB0630000EE7BE /* AppDelegate.swift in Sources */,
 				3565461A25CB0630000EE7BE /* SceneDelegate.swift in Sources */,
 				3565461C25CB0630000EE7BE /* ContentView.swift in Sources */,
